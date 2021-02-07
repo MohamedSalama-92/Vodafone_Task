@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Automation.Solution.API.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="API_URL_R3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://deawiwaird001.syngentaaws.org/Airim.GDC</Value>
+    </Setting>
+    <Setting Name="Token" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Bearer eyJraWQiOiJpd2tkRFBDMXBIQXhwK2ZNXC93aWtKYkwrVU9hV21wUUx4S0dsRFFvMHpqZz0iLCJhbGciOiJSUzI1NiJ9.eyJhdF9oYXNoIjoia09wanZfQ1RCcVBVSWJraFVDTFllQSIsInN1YiI6IjRjMDkxZDcxLTA3NTEtNDYwYi04ZTQyLTUzZTllM2I4ZWVhOSIsImNvZ25pdG86Z3JvdXBzIjpbImV1LWNlbnRyYWwtMV92cW53Y2VqN3RfQXp1cmUtR0RDIl0sImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmV1LWNlbnRyYWwtMS5hbWF6b25hd3MuY29tXC9ldS1jZW50cmFsLTFfdnFud2Nlajd0IiwiY29nbml0bzp1c2VybmFtZSI6IkF6dXJlLUdEQ19zOTU5NjgwIiwicHJlZmVycmVkX3VzZXJuYW1lIjoiczk1OTY4MCIsImdpdmVuX25hbWUiOiJTYWxhbWEgTW9oYW1lZCAoZXh0KSBHQkVYIiwibm9uY2UiOiJoSjM1MzExeDVlVURTcTlnQVVaZGhSa3RYbDdhY3lnekVkbUNLVFFkQkFTRW0wRzg3NnViUnkyMVU1WHJRNHhfdHVDTHF4YWEwanVzVUpnM2tDZHF6Z00tbXNHeV9PQzgzTTRIZjhFd0lZbzFMVDZnUl9HazdVOVd4LWpPcndENUFBdkc5M2xBM0dRYjE3ZFhlcnhKX1dGR0xuRGVDZk82dFhaaVk5eTV4YUUiLCJhdWQiOiI2dW5vODVicmNnYzl1NGtjNGlrZmFjc2ZjbiIsImlkZW50aXRpZXMiOlt7InVzZXJJZCI6InM5NTk2ODAiLCJwcm92aWRlck5hbWUiOiJBenVyZS1HREMiLCJwcm92aWRlclR5cGUiOiJTQU1MIiwiaXNzdWVyIjoiaHR0cHM6XC9cL3N0cy53aW5kb3dzLm5ldFwvMDYyMTlhNGEtYTgzNS00NGQ1LWFmYWYtMzkyNjM0M2JmYjg5XC8iLCJwcmltYXJ5IjoidHJ1ZSIsImRhdGVDcmVhdGVkIjoiMTU2OTc2NTQyNDI0OCJ9XSwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE1NzgyMjUzNjAsIm5hbWUiOiJzOTU5NjgwIiwiZXhwIjoxNTc4MjI4OTYwLCJpYXQiOjE1NzgyMjUzNjAsImVtYWlsIjoiTW9oYW1lZC5TYWxhbWFAaXR3b3J4LmNvbSJ9.e4Hbw8kjoB0NlpC84Q2LeFXCalriU3nTgT7PmTyVGAlgrR1BiA0q25RHaQf4jlBpfsGzLmWJiTREwC4_twg4ru9hH_drWMeMiQxqqhJ2eAAhQZKVA0HYm10F5oWZ5fxh0C4soOKVssozk8PMrngI84BAulDfowq2ujxSD01mGjr-kPK0yq3Em2yFy0j492vhV3C5eahrYt_-bhUriZ0S9DcYPw60TB8ayFw1KrEyOVwvzSev8EpWvaukVHnz68Q4UGUGekyMRubtAXFyM-LSmzVV35515khJzekw4qxgbwUBFYebcFLoGLcv13afxviwzll4DAf6lupewQ3i8RK1zg</Value>
+    </Setting>
+    <Setting Name="StartCheckIn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/api/CheckIn/StartCheckIn</Value>
+    </Setting>
+    <Setting Name="SaveCheckInObject" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/api/CheckIn/SaveCheckInObject</Value>
+    </Setting>
+    <Setting Name="API_URL_R1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://deawiwairs001.syngentaaws.org/Airim.GDC</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

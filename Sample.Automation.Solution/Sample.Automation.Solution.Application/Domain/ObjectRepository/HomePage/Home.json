@@ -1,0 +1,8 @@
+[
+  {
+    "KeyName": "formAuthentication",
+    "LocatorType": "LinkText",
+    "LocatorValue": "Form Authentication",
+    "IsLazyLoaded": "false"
+  }
+]
